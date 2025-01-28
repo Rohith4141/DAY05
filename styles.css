@@ -1,0 +1,72 @@
+nav>span{
+    padding: 20px;
+    font-size: 20px;
+}
+
+nav{
+
+padding: 20px;
+    position: sticky;
+    top: 2px;
+    
+}
+.section1  {
+    display: block;
+    unicode-bidi: isolate;
+
+}
+.section1 img {
+    width: 98.9vw;
+    height: 100vh;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.branchi {
+    font-size: 30px;
+    color: azure;
+    position: absolute;
+    top: 50vh;
+    left: 45vw;
+}
+.br-span {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    font-weight: bold;
+}
+
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.image1{
+
+    position: relative;
+    display: inline;
+
+}
+.summer {
+    display: inline-block;
+    width: 24%;
+    height: 200px;
+    padding: 6px;
+}
+.summer2 {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    background-color: black;
+    color: white;
+    margin: 2px 0px ;
+    padding: 4px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
